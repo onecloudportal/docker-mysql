@@ -1,4 +1,4 @@
-#docker-mysql
+# docker-mysql
 
 This is a base Docker image to run a [MySQL](http://www.mysql.com/) database server.
 
